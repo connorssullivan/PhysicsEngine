@@ -1,9 +1,15 @@
-3DEngineCpp
+Connor And Lukes Physics Engine
 ==
 
-It's like the 3D Game Engine, except in C++
+This is a physics engine for c++, originally designed for BennyQBD's [3DEngine](https://github.com/BennyQBD/3DEngineCpp).
 
-##Build Dependencies##
+
+
+
+
+
+
+##Build Dependencies For Graphics##
 - [CMAKE](http://www.cmake.org/)
 - [GLEW](http://glew.sourceforge.net/)
 - [SDL2](http://www.libsdl.org/)
@@ -89,6 +95,4 @@ cmake -G "Visual Studio 12" ../
 - Move the res folder into the build folder
 - Run
 
-##Additional Credits##
-- [@mxaddict](https://github.com/mxaddict) for setting up the awesome CMake build system
-- Everyone who's created or contributed to issues and pull requests, which make the project better!
+
